@@ -1,2 +1,2 @@
 # cc_canele_clicker
-Pour cliquer, cliquer, CLIQUERRRR!
+Ceci est un readme vide. Chers Cobras, chère Eino, respirez calmement et ne jugez pas sur le readme svp :'(
