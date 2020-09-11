@@ -1,0 +1,23 @@
+body {
+    background-color: whitesmoke;
+  }
+  
+  h1 {
+    color: 5f021f;
+    text-align: center;
+    text-shadow: 1px 1px;
+    
+    font-family: 'Pacifico', cursive;  }
+
+    img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+      }
+
+   
+
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
